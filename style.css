@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.member {
+  background: white;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 8px;
+}
